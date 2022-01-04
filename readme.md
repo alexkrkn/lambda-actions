@@ -41,3 +41,7 @@ export const async handler = (event) => {
 
 };
 ```
+
+# Examples
+
+- [lambda websocket handler](https://github.com/alexkrkn/lambda-websocket-server) - real time chat app
